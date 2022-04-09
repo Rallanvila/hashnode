@@ -60,7 +60,7 @@ I hold myself accountable to this break by placing a timer on my Apple watch. Th
 
 ![https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-## 🏋🏼‍♂️ Excercise
+## 🏋🏼‍♂️Exercise
 
 I exercise to break up my day during my hybrid Pomodoro technique. I’ve found that there comes the point to my day that my brain becomes mush entirely when inside a codebase or solving complex problems. Once I feel the burnout and mental exhaustion creep in, I’ll run downstairs and pop my pre-workout. I’ll come back to what I’m doing, knowing that in about 15-30min this sucker is about to kick in. Once it does, it’s gym time. 
 
