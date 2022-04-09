@@ -1,4 +1,4 @@
-## Hired Imposter's Secrets => (Be an Imposter)
+## A Hired Imposter's Secrets => (Be an Imposter)
 
 So have you been learning to code for a while now? If you have a solid understanding of HTML & CSS with some JS, you should start applying asap. So you pull up LinkedIn and Indeed type in Jr Front-End Dev, and what do you find? 
 
