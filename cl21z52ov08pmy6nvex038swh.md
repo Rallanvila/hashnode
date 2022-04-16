@@ -1,4 +1,4 @@
-## A Hired Imposter's Secrets #3 => (Jack of All Trades Master of One Roadmap)
+## A Hired Imposter's Secrets #4 => (Jack of All Trades Master of One Roadmap)
 
 ## Ok, so let’s start this one out like this...
 
