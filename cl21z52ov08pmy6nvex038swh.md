@@ -35,6 +35,6 @@ Between the Front-End and Back-End Roadmap, you have months and years of learnin
 
 You’ll learn all the core concepts of programming. Then when you have built and have a firm foundation on how to execute the principles on the roadmap, you can then figure out how to do it in Python, Java, PHP, .NET, Rust, Go, Ruby, as they can all do the job as well. You’ll eventually be touching more languages in your journey as a professional developer, depending on the projects you get put on. 
 
-So don't rush it. Keep it stupid simple on yourself to progress quickly and get hired as soon as possible. 
+So don't rush it. Keep it stupid simple on yourself to progress quickly and get hired as soon as possible. Where are you on this roadmap? Comment below so you can link up with others that are on the same path as you. Your feedback and expertise help everyone viewing this article and will help you connect with others!
 
 RAllanVila
